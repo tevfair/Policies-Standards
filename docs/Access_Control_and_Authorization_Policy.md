@@ -1,9 +1,8 @@
-
-
 | Version | Author         | Description                       | Date      |
 |---------|----------------|-----------------------------------|-----------|
 | 1.0     | Tevin Fair  | Initial publication |08/11/2024 |
 
+---
 ## Table of Contents
 
 - [Role-based Access Control (RBAC)](#role-based-access-control-rbac)
