@@ -60,7 +60,7 @@ nav:
       - DR Backup Policy: DR_Backup_Policy.md
       - IAM Policy: IAM_Policy.md
       - Incident Response and Management Policy: Incident_Response_and_Management_Policy.md
-      - Key Management Security Policy: Key_Management_Security_Policy.
+      - Key Management Security Policy: Key_Management_Security_Policy.md
       - Network Security Policy: Network_Security_Policy.md
       - Vulnerability Management Policy: Vulnerability_Management_Policy.md
 
