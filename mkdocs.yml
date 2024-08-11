@@ -1,0 +1,68 @@
+site_name: Security Policies and Standards
+site_url: https://james-willett.github.io/mkdocs-material-youtube-tutorial/
+theme:
+  name: material
+  features:
+    - navigation.tabs: false
+    - navigation.sections
+    - toc.integrate
+    - navigation.top
+    - navigation.expand
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+  language: en
+  palette:
+    scheme: default
+    primary: teal
+    accent: purple
+    toggle:
+      icon: material/toggle-switch
+      name: Switch to dark mode
+  # palette:
+  #   scheme: slate
+  #   primary: teal
+  #   accent: lime
+  #   toggle:
+  #     icon: material/toggle-switch
+  #     name: Switch to light mode
+plugins:
+  - search
+  - social
+extra:
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/tevfair
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/tevinf/
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - admonition
+  - pymdownx.arithmatex:
+      generic: true
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.mark
+  - attr_list
+nav:
+  - Home: index.md
+  - Security Policies:
+      - Access Control and Authorization Policy: Access_Control_and_Authorization_Policy.md
+      - Audit and Monitoring Policy: Audit_and_Monitoring_Policy.md
+      - Data Security Policy: Data_Security_Policy.md
+      - Development and DevOps Policy: Development_and_DevOps_Policy.md
+      - DR Backup Policy: DR_Backup_Policy.md
+      - IAM Policy: IAM_Policy.md
+      - Incident Response and Management Policy: Incident_Response_and_Management_Policy.md
+      - Key Management Security Policy: Key_Management_Security_Policy.
+      - Network Security Policy: Network_Security_Policy.md
+      - Vulnerability Management Policy: Vulnerability_Management_Policy.md
+
+copyright: |
+  &copy; 2024 <a href="https://github.com/tevfair" target="_blank" rel="noopener">Tevin Fair</a>
