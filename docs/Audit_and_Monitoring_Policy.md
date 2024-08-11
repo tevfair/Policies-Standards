@@ -1,6 +1,6 @@
 | Version | Author         | Description                       | Date      |
 |---------|----------------|-----------------------------------|-----------|
-| 1.0     | [Author Name]  | A brief description of the change |08/11/2024 |
+| 1.0     | Tevin Fair  | Initial publication |08/11/2024 |
 
 ## Table of Contents
 
