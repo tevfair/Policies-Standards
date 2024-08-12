@@ -63,6 +63,17 @@ nav:
       - Key Management Security Policy: Key_Management_Security_Policy.md
       - Network Security Policy: Network_Security_Policy.md
       - Vulnerability Management Policy: Vulnerability_Management_Policy.md
+  - Security Standards:
+      - Access Control and Authorization Policy: Access_Control_and_Authorization_STANDARD_300.md
+      - Audit and Monitoring Standard: Audit_and_Monitoring_Standard_400.md
+      - Backup and Recovery Standard: Backup_and_Recovery_Standard_100.md
+      - Data Security Standard: Data_Security_Standard_200.md
+      - Development and DevOps Standard: Development_and_DevOps_Standard_800.md
+      - IAM STANDARD: IAM_STANDARD_1000.md
+      - Incident Response and Management Standard: Incident_Response_and_Management_Standard_500.md
+      - Key Management Standard: Key_Management_Standard_600.md
+      - Network Security Standard: Network_Security_Standard_700.md
+      - Vulnerability Management Standard: Vulnerability_Management_Standard_900.md
 
 copyright: |
   &copy; 2024 <a href="https://github.com/tevfair" target="_blank" rel="noopener">Tevin Fair</a>
