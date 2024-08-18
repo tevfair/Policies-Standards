@@ -10,7 +10,7 @@
 
 - **Description**: Ensure that all data, irrespective of its state, is encrypted using the best industry practices.
 - **Policy Mapping**:
-  - [Policy 500 - 01: Data Encryption]
+  - Policy 500 - 01: Data Encryption
 - **CIS Mapping**:
   - CIS Control: 14.2, 14.3 (Encryption of Data at Rest and Data in Transit)
 - **CSA CCM Mapping**:
@@ -25,7 +25,7 @@
 
 - **Description**: Ensure all data sharing actions are authorized and recorded for auditing purposes.
 - **Policy Mapping**:
-  - [Policy 500 - 02: Data Sharing]
+  - Policy 500 - 02: Data Sharing
 - **CIS Mapping**:
   - CIS Control: 5.1 (Access Control Policies)
 - **CSA CCM Mapping**:
@@ -40,7 +40,7 @@
 
 - **Description**: Strictly define and enforce the retention periods for data stored in cloud environments.
 - **Policy Mapping**:
-  - [Policy 500 - 03: Data Retention]
+  - Policy 500 - 03: Data Retention
 - **CIS Mapping**:
   - CIS Control: 13.1 (Data Protection Policies)
 - **CSA CCM Mapping**:
@@ -55,7 +55,7 @@
 
 - **Description**: Ensure timely backups of essential data to protect against data loss incidents.
 - **Policy Mapping**:
-  - [Policy 500 - 04: Data Backups]
+  - Policy 500 - 04: Data Backups
 - **CIS Mapping**:
   - CIS Control: 10.5 (Backup and Storage Strategies)
 - **CSA CCM Mapping**:
@@ -70,7 +70,7 @@
 
 - **Description**: Implement secure methods for data disposal to ensure data is irretrievable post-deletion.
 - **Policy Mapping**:
-  - [Policy 500 - 05: Data Disposal]
+  - Policy 500 - 05: Data Disposal
 - **CIS Mapping**:
   - CIS Control: 13.3 (Secure Data Disposal)
 - **CSA CCM Mapping**:
@@ -85,7 +85,7 @@
 
 - **Description**: Implement data masking techniques to protect sensitive data in testing and development phases.
 - **Policy Mapping**:
-  - [Policy 500 - 06: Data Masking]
+  - Policy 500 - 06: Data Masking
 - **CIS Mapping**:
   - CIS Control: 14.7 (Masking Sensitive Data)
 - **CSA CCM Mapping**:
@@ -100,7 +100,7 @@
 
 - **Description**: Develop a documented response strategy to handle data breaches efficiently.
 - **Policy Mapping**:
-  - [Policy 500 - 07: Data Breach Response]
+  - Policy 500 - 07: Data Breach Response
 - **CIS Mapping**:
   - CIS Control: 19.1, 19.2 (Incident Response Plan and Reporting)
 - **CSA CCM Mapping**:
@@ -115,7 +115,7 @@
 
 - **Description**: Maintain comprehensive logs for all data access and modifications.
 - **Policy Mapping**:
-  - [Policy 500 - 08: Data Access Logs]
+  - Policy 500 - 08: Data Access Logs
 - **CIS Mapping**:
   - CIS Control: 6.2, 6.3 (System Logging and Centralized Log Management)
 - **CSA CCM Mapping**:
@@ -130,7 +130,7 @@
 
 - **Description**: Implement mechanisms to check data integrity and consistency regularly.
 - **Policy Mapping**:
-  - [Policy 500 - 09: Data Integrity Checks]
+  - Policy 500 - 09: Data Integrity Checks
 - **CIS Mapping**:
   - CIS Control: 14.6 (Data Integrity and Authenticity)
 - **CSA CCM Mapping**:

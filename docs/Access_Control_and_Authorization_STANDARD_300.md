@@ -10,7 +10,7 @@
 
 - **Description**: Define and allocate roles grounded in organizational responsibilities, ensuring cloud resources' access aligns with these roles.
 - **Policy Mapping**:
-  - [Policy 300 - 01: Define and Assign Roles]
+  - Policy 300 - 01: Define and Assign Roles
 - **CIS Mapping**:
   - CIS Control: 16 (Account Monitoring and Control)
 - **CSA CCM Mapping**:
@@ -25,7 +25,7 @@
 
 - **Description**: Ensure responsibilities are adequately distributed to prevent undue control over critical transactions by a single individual.
 - **Policy Mapping**:
-  - [Policy 300 - 02: Segregation of Duties]
+  - Policy 300 - 02: Segregation of Duties
 - **CIS Mapping**:
   - CIS Control: 4 (Controlled Use of Administrative Privileges)
 - **CSA CCM Mapping**:
@@ -40,7 +40,7 @@
 
 - **Description**: Grant only essential permissions, minimizing excessive access.
 - **Policy Mapping**:
-  - [Policy 300 - 03: Least Privilege Principle]
+  - Policy 300 - 03: Least Privilege Principle
 - **CIS Mapping**:
   - CIS Control: 14 (Controlled Access Based on the Need to Know)
 - **CSA CCM Mapping**:
@@ -55,7 +55,7 @@
 
 - **Description**: Regularly validate that users possess appropriate access rights.
 - **Policy Mapping**:
-  - [Policy 300 - 04: Regular Access Audits]
+  - Policy 300 - 04: Regular Access Audits
 - **CIS Mapping**:
   - CIS Control: 16 (Account Monitoring and Control)
 - **CSA CCM Mapping**:
@@ -70,7 +70,7 @@
 
 - **Description**: Ensure that leadership regularly certifies the access rights of their teams.
 - **Policy Mapping**:
-  - [Policy 300 - 05: Certification of Access]
+  - Policy 300 - 05: Certification of Access
 - **CIS Mapping**:
   - CIS Control: 16 (Account Monitoring and Control)
 - **CSA CCM Mapping**:
@@ -85,7 +85,7 @@
 
 - **Description**: Grant heightened access under specific conditions and for limited durations.
 - **Policy Mapping**:
-  - [Policy 300 - 06: Temporary Elevation]
+  - Policy 300 - 06: Temporary Elevation
 - **CIS Mapping**:
   - CIS Control: 4 (Controlled Use of Administrative Privileges)
 - **CSA CCM Mapping**:
@@ -100,7 +100,7 @@
 
 - **Description**: Equip administrators with only the access level necessary for their tasks.
 - **Policy Mapping**:
-  - [Policy 300 - 07: Just-Enough-Administration]
+  - Policy 300 - 07: Just-Enough-Administration
 - **CIS Mapping**:
   - CIS Control: 4 (Controlled Use of Administrative Privileges)
 - **CSA CCM Mapping**:
@@ -115,7 +115,7 @@
 
 - **Description**: Monitor all JIT and JEA actions, alerting on anomalies.
 - **Policy Mapping**:
-  - [Policy 300 - 08: Logging and Monitoring JIT and JEA]
+  - Policy 300 - 08: Logging and Monitoring JIT and JEA
 - **CIS Mapping**:
   - CIS Control: 6 (Maintenance, Monitoring, and Analysis of Audit Logs)
 - **CSA CCM Mapping**:
@@ -127,9 +127,9 @@
 
 - **Description**: Implement and enforce RBAC to manage access to cloud resources.
 - **Policy Mapping**:
-  - [Policy 300 - 01: Define and Assign Roles]
-  - [Policy 300 - 02: Segregation of Duties]
-  - [Policy 300 - 03: Least Privilege Principle]
+  - Policy 300 - 01: Define and Assign Roles
+  - Policy 300 - 02: Segregation of Duties
+  - Policy 300 - 03: Least Privilege Principle
 - **CIS Mapping**:
   - CIS Control: 1.4 (Maintain an Inventory of Administrative Accounts)
   - CIS Control: 1.6 (Use Dedicated Administrative Accounts)
@@ -145,8 +145,8 @@
 
 - **Description**: Implement regular access reviews, ensuring users and roles are in line with current organizational requirements.
 - **Policy Mapping**:
-  - [Policy 300 - 04: Regular Access Audits]
-  - [Policy 300 - 05: Certification of Access]
+  - Policy 300 - 04: Regular Access Audits
+  - Policy 300 - 05: Certification of Access
 - **CIS Mapping**:
   - CIS Control: 16.2 (Account Monitoring)
 - **CSA CCM Mapping**:
@@ -161,9 +161,9 @@
 
 - **Description**: Control and monitor temporary and elevated access requests and usage.
 - **Policy Mapping**:
-  - [Policy 300 - 06: Temporary Elevation]
-  - [Policy 300 - 07: Just-Enough-Administration]
-  - [Policy 300 - 08: Logging and Monitoring JIT and JEA]
+  - Policy 300 - 06: Temporary Elevation
+  - Policy 300 - 07: Just-Enough-Administration
+  - Policy 300 - 08: Logging and Monitoring JIT and JEA
 - **CIS Mapping**:
   - CIS Control: 4.2 (Change Administrative Credentials)
   - CIS Control: 4.3 (Use Dedicated Administrative Accounts)
@@ -179,9 +179,9 @@
 
 - **Description**: Establish a governance framework for identity and access to ensure compliance and ongoing alignment with organizational needs.
 - **Policy Mapping**:
-  - [Policy 300 - 01: Define and Assign Roles]
-  - [Policy 300 - 04: Regular Access Audits]
-  - [Policy 300 - 05: Certification of Access]
+  - Policy 300 - 01: Define and Assign Roles
+  - Policy 300 - 04: Regular Access Audits
+  - Policy 300 - 05: Certification of Access
 - **CIS Mapping**:
   - CIS Control: 16.6 (Account Use Confirmation)
 - **CSA CCM Mapping**:

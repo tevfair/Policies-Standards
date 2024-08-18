@@ -10,7 +10,7 @@
 
 - **Description**: Employ consistent monitoring and logging across all cloud resources to promptly identify anomalies and security threats.
 - **Policy Mapping**:
-  - [Policy 600 - 01: Monitoring and Logging]
+  - Policy 600 - 01: Monitoring and Logging
 - **CIS Mapping**:
   - CIS Control: 6 (Maintenance, Monitoring, and Analysis of Audit Logs)
 - **CSA CCM Mapping**:
@@ -25,7 +25,7 @@
 
 - **Description**: Provide mechanisms for users to report potential security issues or suspicious activities.
 - **Policy Mapping**:
-  - [Policy 600 - 02: User Reporting]
+  - Policy 600 - 02: User Reporting
 - **CIS Mapping**:
   - CIS Control: 17 (Implement a Security Awareness and Training Program)
 - **CSA CCM Mapping**:
@@ -40,7 +40,7 @@
 
 - **Description**: Standardize incident categorization using a defined severity scale.
 - **Policy Mapping**:
-  - [Policy 600 - 03: Incident Classification]
+  - Policy 600 - 03: Incident Classification
 - **CIS Mapping**:
   - CIS Control: 19 (Incident Response and Management)
 - **CSA CCM Mapping**:
@@ -55,7 +55,7 @@
 
 - **Description**: Use secure, encrypted channels for all incident-related communications.
 - **Policy Mapping**:
-  - [Policy 600 - 04: Communication Channels]
+  - Policy 600 - 04: Communication Channels
 - **CIS Mapping**:
   - CIS Control: 14 (Controlled Access Based on the Need to Know)
 - **CSA CCM Mapping**:
@@ -70,7 +70,7 @@
 
 - **Description**: Implement processes to notify stakeholders in the event of incidents based on defined criteria.
 - **Policy Mapping**:
-  - [Policy 600 - 05: Stakeholder Notification]
+  - Policy 600 - 05: Stakeholder Notification
 - **CIS Mapping**:
   - CIS Control: 19 (Incident Response and Management)
 - **CSA CCM Mapping**:
@@ -85,7 +85,7 @@
 
 - **Description**: Standardize public communications post-incident to ensure clarity and transparency.
 - **Policy Mapping**:
-  - [Policy 600 - 06: Public Communication]
+  - Policy 600 - 06: Public Communication
 - **CIS Mapping**:
   - CIS Control: 19 (Incident Response and Management)
 - **CSA CCM Mapping**:
@@ -100,7 +100,7 @@
 
 - **Description**: Maintain a toolkit comprising updated and validated cloud forensic tools.
 - **Policy Mapping**:
-  - [Policy 600 - 07: Forensic Toolset]
+  - Policy 600 - 07: Forensic Toolset
 - **CIS Mapping**:
   - CIS Control: 20 (Penetration Tests and Red Team Exercises)
 - **CSA CCM Mapping**:
@@ -115,7 +115,7 @@
 
 - **Description**: Ensure evidence preservation processes are in place and adhere to best practices.
 - **Policy Mapping**:
-  - [Policy 600 - 08: Evidence Preservation]
+  - Policy 600 - 08: Evidence Preservation
 - **CIS Mapping**:
   - CIS Control: 6 (Maintenance, Monitoring, and Analysis of Audit Logs)
 - **CSA CCM Mapping**:
@@ -130,7 +130,7 @@
 
 - **Description**: Ensure forensic investigations are thorough, documented, and led by qualified personnel.
 - **Policy Mapping**:
-  - [Policy 600 - 09: Forensic Analysis]
+  - Policy 600 - 09: Forensic Analysis
 - **CIS Mapping**:
   - CIS Control: 19 (Incident Response and Management)
 - **CSA CCM Mapping**:

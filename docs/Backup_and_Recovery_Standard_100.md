@@ -9,7 +9,7 @@
 
 - **Description**: Define the frequency of backups based on data criticality.
 - **Policy Mapping**:
-  - [Policy 100 - 01: Backup Frequency]
+  - Policy 100 - 01: Backup Frequency
 - **CIS Mapping**:
   - CIS Control: 10.5 (Schedule regular automated backups)
 - **CSA CCM Mapping**:
@@ -23,7 +23,7 @@
 
 - **Description**: Backups should be stored in geographically separate locations from the primary data.
 - **Policy Mapping**:
-  - [Policy 100 - 02: Backup Location]
+  - Policy 100 - 02: Backup Location
 - **CIS Mapping**:
   - CIS Control: 10.6 (Ensure the use of multiple backup destinations)
 - **CSA CCM Mapping**:
@@ -37,7 +37,7 @@
 
 - **Description**: Ensure backups are isolated and protected from the main environment.
 - **Policy Mapping**:
-  - [Policy 100 - 03: Backup Isolation]
+  - Policy 100 - 03: Backup Isolation
 - **CIS Mapping**:
   - CIS Control: 10.7 (Segregate backup and primary data)
 - **CSA CCM Mapping**:
@@ -51,7 +51,7 @@
 
 - **Description**: Define the maximum acceptable time that a system can be down after a disaster.
 - **Policy Mapping**:
-  - [Policy 100 - 04: Recovery Time Objective (RTO)]
+  - Policy 100 - 04: Recovery Time Objective (RTO)
 - **CIS Mapping**:
   - CIS Control: 10.8 (Set and enforce RTO for critical systems)
 - **CSA CCM Mapping**:
@@ -65,7 +65,7 @@
 
 - **Description**: Define the maximum age of files that must be recovered from backup storage for normal operations to resume.
 - **Policy Mapping**:
-  - [Policy 100 - 05: Recovery Point Objective (RPO)]
+  - Policy 100 - 05: Recovery Point Objective (RPO)
 - **CIS Mapping**:
   - CIS Control: 10.9 (Define and adhere to RPO)
 - **CSA CCM Mapping**:
@@ -79,8 +79,8 @@
 
 - **Description**: Backups should be tested regularly to ensure data integrity and recoverability.
 - **Policy Mapping**:
-  - [Policy 100 - 06: Regular Backup Tests]
-  - [Policy 100 - 07: Validation of Data]
+  - Policy 100 - 06: Regular Backup Tests
+  - Policy 100 - 07: Validation of Data
 - **CIS Mapping**:
   - CIS Control: 10.10 (Regularly test backups for integrity)
 - **CSA CCM Mapping**:
@@ -94,8 +94,8 @@
 
 - **Description**: Verify the integrity of backups.
 - **Policy Mapping**:
-  - [Policy 100 - 06: Regular Backup Tests]
-  - [Policy 100 - 07: Validation of Data]
+  - Policy 100 - 06: Regular Backup Tests
+  - Policy 100 - 07: Validation of Data
 - **CIS Mapping**:
   - CIS Control: 10.11 (Use checksums for backup validation)
 - **CSA CCM Mapping**:
@@ -109,7 +109,7 @@
 
 - **Description**: Define how long backups are to be retained.
 - **Policy Mapping**:
-  - [Policy 100 - 08: Retention Period]
+  - Policy 100 - 08: Retention Period
 - **CIS Mapping**:
   - CIS Control: 10.12 (Maintain backups for the defined retention period)
 - **CSA CCM Mapping**:
@@ -123,7 +123,7 @@
 
 - **Description**: Once past their retention period, backups should be securely deleted.
 - **Policy Mapping**:
-  - [Policy 100 - 09: Secure Deletion]
+  - Policy 100 - 09: Secure Deletion
 - **CIS Mapping**:
   - CIS Control: 10.13 (Securely delete outdated backups)
 - **CSA CCM Mapping**:
@@ -137,7 +137,7 @@
 
 - **Description**: All backups must be encrypted, both at rest and during transit.
 - **Policy Mapping**:
-  - [Policy 100 - 10: Backup Encryption]
+  - Policy 100 - 10: Backup Encryption
 - **CIS Mapping**:
   - CIS Control: 10.14 (Use strong encryption protocols)
 - **CSA CCM Mapping**:
@@ -151,7 +151,7 @@
 
 - **Description**: Restrict and monitor access to backups.
 - **Policy Mapping**:
-  - [Policy 100 - 11: Access Control to Backups]
+  - Policy 100 - 11: Access Control to Backups
 - **CIS Mapping**:
   - CIS Control: 10.15 (Limit and monitor access to backups)
 - **CSA CCM Mapping**:

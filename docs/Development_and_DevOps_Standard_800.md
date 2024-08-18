@@ -11,7 +11,7 @@
 
 - **Description**: Establish robust security for source code repositories to protect against unauthorized access and changes.
 - **Policy Mapping**:
-  - [Policy 900 - 01: Code Repository Security]
+  - Policy 900 - 01: Code Repository Security
 - **CIS Mapping**:
   - CIS Control: 5.1, 5.2 (Secure Repository Access and Audit Logging)
 - **CSA CCM Mapping**:
@@ -29,7 +29,7 @@
 
 - **Description**: Incorporate security considerations and checks throughout the SDLC.
 - **Policy Mapping**:
-  - [Policy 900 - 02: Secure Software Development Life Cycle (SDLC)]
+  - Policy 900 - 02: Secure Software Development Life Cycle (SDLC)
 - **CIS Mapping**:
   - CIS Control: 6.1, 6.2 (SDLC Security Integration and Secure Coding Training)
 - **CSA CCM Mapping**:
@@ -44,7 +44,7 @@
 
 - **Description**: Ensure proper versioning for all Infrastructure as Code (IaC) configurations.
 - **Policy Mapping**:
-  - [Policy 900 - 03: Version Control]
+  - Policy 900 - 03: Version Control
 - **CIS Mapping**:
   - CIS Control: 7.2, 7.3 (IaC Version Control and Historical Version Retention)
 - **CSA CCM Mapping**:
@@ -59,7 +59,7 @@
 
 - **Description**: Authenticate and scrutinize IaC configurations to prevent security misconfigurations before implementation.
 - **Policy Mapping**:
-  - [Policy 900 - 04: Configuration Validation]
+  - Policy 900 - 04: Configuration Validation
 - **CIS Mapping**:
   - CIS Control: 7.5, 7.6 (IaC Pre-Validation and Static Analysis for Misconfigurations)
 - **CSA CCM Mapping**:
@@ -74,7 +74,7 @@
 
 - **Description**: Adhere to the principle of least privilege when setting permissions in IaC configurations.
 - **Policy Mapping**:
-  - [Policy 900 - 05: Least Privilege Principle]
+  - Policy 900 - 05: Least Privilege Principle
 - **CIS Mapping**:
   - CIS Control: 4.2 (Least Privilege Implementation)
 - **CSA CCM Mapping**:
@@ -89,7 +89,7 @@
 
 - **Description**: Guard against embedding sensitive information within IaC scripts and ensure secured storage.
 - **Policy Mapping**:
-  - [Policy 900 - 06: Secrets Management]
+  - Policy 900 - 06: Secrets Management
 - **CIS Mapping**:
   - CIS Control: 13.3, 13.4 (Sensitive Data Protection and Encrypted Storage)
 - **CSA CCM Mapping**:
@@ -104,7 +104,7 @@
 
 - **Description**: Integrate automated security testing mechanisms within CI/CD pipelines to continually assess for potential vulnerabilities.
 - **Policy Mapping**:
-  - [Policy 900 - 07: Automated Security Testing]
+  - Policy 900 - 07: Automated Security Testing
 - **CIS Mapping**:
   - CIS Control: 18.1, 18.2 (Automated Security Testing Integration and Dependency Scanning)
 - **CSA CCM Mapping**:
@@ -119,7 +119,7 @@
 
 - **Description**: Ensure that all software dependencies are regularly checked for vulnerabilities and kept up-to-date.
 - **Policy Mapping**:
-  - [Policy 900 - 08: Dependency Management]
+  - Policy 900 - 08: Dependency Management
 - **CIS Mapping**:
   - CIS Control: 3.4, 3.5 (Dependency Vulnerability Scanning and Outdated Dependency Replacement)
 - **CSA CCM Mapping**:
@@ -134,7 +134,7 @@
 
 - **Description**: Promote the adoption of immutable infrastructure where resources are not altered post-deployment but replaced with new versions.
 - **Policy Mapping**:
-  - [Policy 900 - 09: Immutable Infrastructure]
+  - Policy 900 - 09: Immutable Infrastructure
 - **CIS Mapping**:
   - CIS Control: 8.4 (Immutable and Version Controlled Configurations)
 - **CSA CCM Mapping**:
@@ -149,7 +149,7 @@
 
 - **Description**: Implement strict access control mechanisms for CI/CD tools, maintaining thorough logs for all activities.
 - **Policy Mapping**:
-  - [Policy 900 - 10: Access Control]
+  - Policy 900 - 10: Access Control
 - **CIS Mapping**:
   - CIS Control: 4.3, 4.4 (Restrict Access to CI/CD tools and Audit Log Maintenance)
 - **CSA CCM Mapping**:
@@ -164,7 +164,7 @@
 
 - **Description**: Artifacts generated during the build process must be stored securely in controlled repositories, ensuring their integrity.
 - **Policy Mapping**:
-  - [Policy 900 - 11: Artifact Management]
+  - Policy 900 - 11: Artifact Management
 - **CIS Mapping**:
   - CIS Control: 8.7, 8.8 (Secure Artifact Storage and Integrity Verification)
 - **CSA CCM Mapping**:
@@ -179,7 +179,7 @@
 
 - **Description**: Establish a clear demarcation between production and non-production environments. Ensure direct deployments don't occur to production without passing through appropriate stages.
 - **Policy Mapping**:
-  - [Policy 900 - 12: Environment Isolation]
+  - Policy 900 - 12: Environment Isolation
 - **CIS Mapping**:
   - CIS Control: 7.9, 7.10 (Environment Separation and Deployment Process)
 - **CSA CCM Mapping**:

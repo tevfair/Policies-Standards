@@ -12,7 +12,7 @@
 
 - **Description**: Implement architectures that adhere to the least privilege principle.
 - **Policy Mapping**:
-  - [Policy 700 - 01: Design]
+  - Policy 700 - 01: Design
 - **CIS Mapping**:
   - CIS Control: 14.6 (Segmentation and Segregation)
 - **CSA CCM Mapping**:
@@ -27,7 +27,7 @@
 
 - **Description**: Distribute cloud resources across multiple regions to ensure high availability.
 - **Policy Mapping**:
-  - [Policy 700 - 03: Distributed Deployment]
+  - Policy 700 - 03: Distributed Deployment
 - **CIS Mapping**:
   - CIS Control: 6.5 (Geographic Distribution)
 - **CSA CCM Mapping**:
@@ -45,7 +45,7 @@
 
 - **Description**: Implement stateful and stateless packet filtering to control traffic.
 - **Policy Mapping**:
-  - [Policy 700 - 05: Default Policy]
+  - Policy 700 - 05: Default Policy
 - **CIS Mapping**:
   - CIS Control: 9.2 (Limitation and Control of Network Ports)
 - **CSA CCM Mapping**:
@@ -60,7 +60,7 @@
 
 - **Description**: Capture logs for all network-related activities.
 - **Policy Mapping**:
-  - [Policy 700 - 07: Logging]
+  - Policy 700 - 07: Logging
 - **CIS Mapping**:
   - CIS Control: 6.2 (Incident Event Logging)
 - **CSA CCM Mapping**:
@@ -77,7 +77,7 @@
 
 - **Description**: Ensure fine-grained access controls at the subnet level.
 - **Policy Mapping**:
-  - [Policy 700 - 08: Design]
+  - Policy 700 - 08: Design
 - **CIS Mapping**:
   - CIS Control: 14.8 (Wireless Device Access Control)
 - **CSA CCM Mapping**:
@@ -94,7 +94,7 @@
 
 - **Description**: Mandate encryption for data in transit between any two points.
 - **Policy Mapping**:
-  - [Policy 700 - 12: Encryption]
+  - Policy 700 - 12: Encryption
 - **CIS Mapping**:
   - CIS Control: 13.1 (Protect Data in Transit)
 - **CSA CCM Mapping**:
@@ -109,7 +109,7 @@
 
 - **Description**: Continuously monitor private connections for disruptions or unauthorized activities.
 - **Policy Mapping**:
-  - [Policy 700 - 14: Monitoring]
+  - Policy 700 - 14: Monitoring
 - **CIS Mapping**:
   - CIS Control: 8.3 (Malware Defenses)
 - **CSA CCM Mapping**:
@@ -126,7 +126,7 @@
 
 - **Description**: Ensure that all cloud assets are patched regularly.
 - **Policy Mapping**:
-  - [General Best Practices]
+  - General Best Practices
 - **CIS Mapping**:
   - CIS Control: 2.2 (Software Inventory and Patching)
 - **CSA CCM Mapping**:
@@ -141,7 +141,7 @@
 
 - **Description**: Perform security audits at regular intervals to check compliance with these standards.
 - **Policy Mapping**:
-  - [Policy 700 - 05: Review and Update]
+  - Policy 700 - 05: Review and Update
 - **CIS Mapping**:
   - CIS Control: 20.3 (Penetration Tests and Red Team Exercises)
 - **CSA CCM Mapping**:
@@ -154,7 +154,7 @@
 
 - **Description**: Restrict network access by removing or disallowing public IP addresses when possible. (Under Review)
 - **Policy Mapping**:
-  - [Policy 700 - 05: Default Policy]
+  - Policy 700 - 05: Default Policy
 - **CIS Mapping**:
   - CIS Control: 20.3 (Penetration Tests and Red Team Exercises)
 - **CSA CCM Mapping**:
@@ -167,7 +167,7 @@
 
 - **Description**: All cloud storage accounts must be associated with a firewall, restricting inbound access. (Under Review)
 - **Policy Mapping**:
-  - [Policy 700 - 03: Distributed Deployment]
+  - Policy 700 - 03: Distributed Deployment
 - **CIS Mapping**:
   - CIS Control: 20.3 (Penetration Tests and Red Team Exercises)
 - **CSA CCM Mapping**:

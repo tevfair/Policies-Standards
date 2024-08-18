@@ -10,7 +10,7 @@
 
 - **Description**: Ensure all cryptographic keys are managed centrally through the approved cloud-based KMS.
 - **Policy Mapping**:
-  - [Policy 800 - 01: Centralized Management]
+  - Policy 800 - 01: Centralized Management
 - **CSA CCM Mapping**:
   - CSA CCM: KMS-01, KMS-02 (Key Generation and Distribution)
 - **Implementation**:
@@ -23,7 +23,7 @@
 
 - **Description**: Establish and maintain strict access control for the KMS.
 - **Policy Mapping**:
-  - [Policy 800 - 02: Access Control]
+  - Policy 800 - 02: Access Control
 - **CSA CCM Mapping**:
   - CSA CCM: IAM-02, IAM-09 (Separation of Duties and User Access Reviews)
 - **Implementation**:
@@ -36,7 +36,7 @@
 
 - **Description**: Ensure all activities and key usage within the KMS are properly logged and monitored.
 - **Policy Mapping**:
-  - [Policy 800 - 03: Logging and Monitoring]
+  - Policy 800 - 03: Logging and Monitoring
 - **CSA CCM Mapping**:
   - CSA CCM: GRM-01, GRM-02 (Governance and Risk Management)
 - **Implementation**:
@@ -49,7 +49,7 @@
 
 - **Description**: Regularly backup keys and KMS configurations ensuring their secure storage.
 - **Policy Mapping**:
-  - [Policy 800 - 04: Backup and Recovery]
+  - Policy 800 - 04: Backup and Recovery
 - **CSA CCM Mapping**:
   - CSA CCM: BCR-01, BCR-02 (Backup and Recovery)
 - **Implementation**:
@@ -62,7 +62,7 @@
 
 - **Description**: Ensure secure housing and access controls for HSMs.
 - **Policy Mapping**:
-  - [Policy 800 - 05: Physical Security]
+  - Policy 800 - 05: Physical Security
 - **CSA CCM Mapping**:
   - CSA CCM: DCS-05 (Physical and Environmental Security)
 - **Implementation**:
@@ -75,7 +75,7 @@
 
 - **Description**: Ensure that updates to HSM software or firmware come from trusted sources and are verified.
 - **Policy Mapping**:
-  - [Policy 800 - 06: Firmware/Software Updates]
+  - Policy 800 - 06: Firmware/Software Updates
 - **CSA CCM Mapping**:
   - CSA CCM: DCS-06 (Malware and Anti-virus)
 - **Implementation**:
@@ -88,7 +88,7 @@
 
 - **Description**: Log all activities performed on the HSM ensuring log security.
 - **Policy Mapping**:
-  - [Policy 800 - 07: Logging and Audit]
+  - Policy 800 - 07: Logging and Audit
 - **CSA CCM Mapping**:
   - CSA CCM: SEF-01, SEF-02 (Audit Logging / Intrusion Detection)
 - **Implementation**:
@@ -101,7 +101,7 @@
 
 - **Description**: Regular training for staff involved in key management processes.
 - **Policy Mapping**:
-  - [Policy 800 - 08: Training]
+  - Policy 800 - 08: Training
 - **CSA CCM Mapping**:
   - CSA CCM: HRS-06 (Training and Awareness)
 - **Implementation**:
@@ -114,7 +114,7 @@
 
 - **Description**: Promote the importance of secure key management across the organization.
 - **Policy Mapping**:
-  - [Policy 800 - 09: Awareness]
+  - Policy 800 - 09: Awareness
 - **CSA CCM Mapping**:
   - CSA CCM: HRS-07 (User Responsibility)
 - **Implementation**:

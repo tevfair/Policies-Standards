@@ -9,7 +9,7 @@
 
 - **Description**: Ensure that all cloud operations and activities are logged comprehensively, providing a trail for audit and forensics.
 - **Policy Mapping**:
-  - [Policy 400 - 01: Comprehensive Logging]
+  - Policy 400 - 01: Comprehensive Logging
 - **CIS Mapping**:
   - CIS Control: 6.5 (Use of Audit Analysis Tools)
 - **CSA CCM Mapping**:
@@ -22,7 +22,7 @@
 
 - **Description**: Secure all stored log data, ensuring it remains confidential and intact, protected against unauthorized access.
 - **Policy Mapping**:
-  - [Policy 400 - 01: Comprehensive Logging]
+  - Policy 400 - 01: Comprehensive Logging
 - **CIS Mapping**:
   - CIS Control: 13.1 (Data Encryption at Rest)
 - **CSA CCM Mapping**:
@@ -36,7 +36,7 @@
 
 - **Description**: Establish continuous monitoring of cloud environments, ensuring early detection and swift response to potential security threats.
 - **Policy Mapping**:
-  - [Policy 400 - 03: Real-time Threat Detection]
+  - Policy 400 - 03: Real-time Threat Detection
 - **CIS Mapping**:
   - CIS Control: 6.3 (Real-time Monitoring)
 - **CSA CCM Mapping**:
@@ -49,8 +49,8 @@
 
 - **Description**: Implement mechanisms that allow for rapid identification and automated mitigation of detected threats, ensuring minimal manual intervention.
 - **Policy Mapping**:
-  - [Policy 400 - 03: Real-time Threat Detection]
-  - [Policy 400 - 04: Continuous Threat Intelligence]
+  - Policy 400 - 03: Real-time Threat Detection
+  - Policy 400 - 04: Continuous Threat Intelligence
 - **CIS Mapping**:
   - CIS Control: 19.3 (Incident Management Automation)
 - **CSA CCM Mapping**:
@@ -63,7 +63,7 @@
 
 - **Description**: Periodically evaluate the deployed monitoring and threat detection systems to ensure their effectiveness and relevance.
 - **Policy Mapping**:
-  - [Policy 400 - 05: Routine Security Assessments]
+  - Policy 400 - 05: Routine Security Assessments
 - **CIS Mapping**:
   - CIS Control: 20.1 (Penetration Tests and Red/Blue Team Exercises)
 - **CSA CCM Mapping**:
@@ -76,7 +76,7 @@
 
 - **Description**: Ensure that findings from audits and security assessments are translated into actionable improvement steps and communicated transparently to all stakeholders.
 - **Policy Mapping**:
-  - [Policy 400 - 06: Action on Audit Findings]
+  - Policy 400 - 06: Action on Audit Findings
 - **CIS Mapping**:
   - CIS Control: 20.3 (Audit Log Reviews)
 - **CSA CCM Mapping**:
